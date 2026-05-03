@@ -7,21 +7,21 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <Twitter size={20} />,
-		href: "https://twitter.com/chronark_",
-		label: "Twitter",
-		handle: "@chronark_",
+		href: "https://www.linkedin.com/in/mirza-zafri-a46430171/",
+		label: "LinkedIn",
+		handle: "Mirza Zafri",
 	},
 	{
 		icon: <Mail size={20} />,
-		href: "mailto:dev@chronark.com",
-		label: "babaoey",
-		handle: "dev@chronark.com",
+		href: "mailto:zafri0702@gmail.com",
+		label: "Email",
+		handle: "zafri0702@gmail.com",
 	},
 	{
 		icon: <Github size={20} />,
-		href: "https://github.com/chronark",
+		href: "https://github.com/myrz4",
 		label: "Github",
-		handle: "chronark",
+		handle: "myrz4",
 	},
 ];
 
