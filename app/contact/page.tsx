@@ -14,7 +14,7 @@ const socials = [
 	{
 		icon: <Mail size={20} />,
 		href: "mailto:dev@chronark.com",
-		label: "Email",
+		label: "babaoey",
 		handle: "dev@chronark.com",
 	},
 	{
